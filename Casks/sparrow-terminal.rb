@@ -1,4 +1,4 @@
-cask "sparrow" do
+cask "sparrow-terminal" do
   version "1.3.1-beta"
   sha256 "e9218e209833ccdfaf8570bcd45e5ee26ba92404c59ada686d8ec68e9b71b005"
 
